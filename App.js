@@ -68,7 +68,7 @@ const styles = StyleSheet.create({
   },
   content : {
     padding: 40,
-    backgroundColor:'coral',
+    backgroundColor:'pink',
   },
   list: {
     margin: 20,
