@@ -73,7 +73,7 @@ const styles = StyleSheet.create({
   list: {
     margin: 20,
     flex:1,
-    backgroundColor:'yellow',
+    backgroundColor:'cyan',
     
   }
 });
