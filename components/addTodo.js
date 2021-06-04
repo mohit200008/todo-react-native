@@ -31,6 +31,7 @@ const styles = StyleSheet.create({
 
     },
     blank: {
-        marginBottom:10
+        marginBottom:10,
     }
+
 })
